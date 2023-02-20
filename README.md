@@ -1,4 +1,4 @@
-# IBM Cloud terraform-based environement for Starbust Data
+# IBM Cloud terraform-based environment for Starbust Data
 
 This repository provides a terraform based IBM Cloud environment to deploy [Starbust Data Solution](https://www.starburst.io/).
 
